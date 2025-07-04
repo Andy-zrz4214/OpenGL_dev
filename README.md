@@ -1,3 +1,3 @@
-### This program is still testing
+#### This program is still testing
 
-#### A1.0.0
+##### Newest: v0.0.2-alpha
